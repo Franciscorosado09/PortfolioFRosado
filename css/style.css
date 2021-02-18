@@ -1,6 +1,3 @@
-
-
-
 /* Added formating for body */
 
 body {
@@ -15,14 +12,16 @@ body {
 
 
 
-.container{ font-family: 'Arvo', serif;
+.container {
+    font-family: 'Arvo', serif;
     text-align: left;
-  color: black;
+    color: black;
 
-    
+
 }
 
-h1 { font-weight: bolder;
+h1 {
+    font-weight: bolder;
     font-size: 90px;
 
 }
@@ -31,26 +30,26 @@ h1 { font-weight: bolder;
 
 
 
-.card {background-color:white;
+.card {
+    background-color: white;
     text-align: center;
     margin-left:
- 
+
 }
 
 
-img{
+img {
     margin-top: 13%;
 }
 
 
- .aboutMe{
+.aboutMe {
     margin-top: 4%;
 
     margin-right: 10%;
     margin-left: 10%;
-  }
+}
 
- 
-  article {
-      margin-left: 25%;
-  }
+article {
+    margin-left: 25%;
+}
