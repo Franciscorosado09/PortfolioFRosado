@@ -132,6 +132,8 @@
   Author of README Francisco E. Rosado
 
   * Feedback, brainstorming, and general support to study group:
+
+
         1. Young Ji Kim - https://github.com/youjmi
         2. Amir Ashtiany - https://github.com/Alexfit4
         3. Johnnie Simpson - https://github.com/balokdecoy
