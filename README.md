@@ -123,10 +123,10 @@
   
   
   # **Application**
-  *Porfolio-Francisco E. Rosado is on version 2.0
+  * Porfolio-Francisco E. Rosado is on version 2.0
 
-  *Link to Application: https://franciscorosado09.github.io/PortfolioFRosado/ 
-  *ID to Github Repo: Franciscorosado09
+  * Link to Application: https://franciscorosado09.github.io/PortfolioFRosado/ 
+  * ID to Github Repo: Franciscorosado09
   
   # **Contributors**
   Author of README Francisco E. Rosado
@@ -142,10 +142,10 @@
   
   # **FAQ**
   Contact info:
-    *README Author: Francisco E. Rosado
-    *Email: Franciscorosado09@gmail.com
-    *Github Repo ID: Franciscorosado09
-    *Linkedin: https://www.linkedin.com/in/franciscorosado1/
+    * README Author: Francisco E. Rosado
+    * Email: Franciscorosado09@gmail.com
+    * Github Repo ID: Franciscorosado09
+    * Linkedin: https://www.linkedin.com/in/franciscorosado1/
   
   
   
