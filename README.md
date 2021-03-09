@@ -102,8 +102,11 @@
   List of required installations prior to download if you would like to work with code from portfolio projects.
 
   Install the following:
+
    * npm init
+
   Varying between the applications, I install the following packages:
+
     * npm install express
     * npm install express-handlebars
     * npm install mysql
@@ -118,6 +121,7 @@
     * npm install sequelize
 
  Then application will be invoked by using the following command:
+ 
  * nodemon <js filename> OR node <js filename>
 
   
@@ -142,7 +146,7 @@
   
   # **FAQ**
   Contact info:
-  
+
     * README Author: Francisco E. Rosado
 
     * Email: Franciscorosado09@gmail.com
