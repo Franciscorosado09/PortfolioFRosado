@@ -53,3 +53,9 @@ img {
 article {
     margin-left: 25%;
 }
+
+
+#resume{
+    height: 100%; 
+    width: 150%;
+}
