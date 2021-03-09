@@ -142,9 +142,13 @@
   
   # **FAQ**
   Contact info:
+  
     * README Author: Francisco E. Rosado
+
     * Email: Franciscorosado09@gmail.com
+
     * Github Repo ID: Franciscorosado09
+
     * Linkedin: https://www.linkedin.com/in/franciscorosado1/
   
   
