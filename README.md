@@ -43,7 +43,7 @@
 
    3. Weather Dashboard
 
-    ![weatherApp](/Assets/weatherApp.png)
+  ![weatherApp](./Assets/weatherApp.png)
 
     * Use the OpenWeather API to retrieve weather data to pull city forecasts. Worked with APIs, JQuery, Javascript, HTML, CSS.
 
